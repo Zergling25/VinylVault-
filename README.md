@@ -43,11 +43,3 @@ App.jsx
 - `/album/:albumId` - Shows album details.
 - `/checkout` - Shows the checkout form.
 
-## 3. Git Commits
-
-The project uses four commits to show the development process.
-
-1. `git commit -m "Set up React project and album data"`
-2. `git commit -m "Add album catalog and genre filter"`
-3. `git commit -m "Add album details and cart"`
-4. `git commit -m "Add checkout form"`
